@@ -1,10 +1,7 @@
 小暗太坏了！
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 阿斯达
-=======
+
 小暗一直欺负小明！
->>>>>>> Stashed changes
-=======
-小暗一直欺负小明！
->>>>>>> Stashed changes
+
+
